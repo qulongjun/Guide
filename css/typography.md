@@ -1,5 +1,5 @@
 # 字体排印
 
-暂时参考[网页字体排印指南](http://aaaaaashu.me/shu/)
+暂时参考[在线文档](http://guide.qulongjun.cn/css/typography.html)
 
 TODO
