@@ -1,7 +1,7 @@
 # 前端开发规范手册
 
-#####Github: [仓库地址](https://github.com/Aaaaaashu/Front-End-Style-Guide)
-#####知笔墨：[手册地址](http://zhibimo.com/read/Ashu/front-end-style-guide/)
+#####Github: [仓库地址](https://github.com/qulongjun/Guide)
+#####知笔墨：[手册地址](http://guide.qulongjun.cn/)
 
 此手册主要实现的目标：**代码一致性**和**最佳实践**。通过代码风格的一致性，降低维护代码的成本以及改善多人协作的效率。同时遵守最佳实践，确保页面性能得到最佳优化和高效的代码。
 
@@ -29,4 +29,3 @@
 * [工具箱](http://zhibimo.com/read/Ashu/front-end-style-guide/tool/index.html)
 * [参考](http://zhibimo.com/read/Ashu/front-end-style-guide/reference/index.html)
 
-![](https://raw.githubusercontent.com/Aaaaaashu/Front-End-Style-Guide/master/img/husky.png)
